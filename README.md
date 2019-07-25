@@ -35,4 +35,4 @@ Erm... I had inserted the card upside down.
 
 If that was to long to read, I suggest you follow other classes first ;-)
 
-[<< previous]() || Jeroen Hendrickx || [next >>](https://github.com/bona-kim/markdown/blob/master/bonakim.md)
+[<< previous]() || Jeroen Hendrickx || [next >>](https://github.com/Rubicscube/challenge-markdown/blob/master/Githubmark.md)
