@@ -9,7 +9,7 @@
 
 | Birthday | Gender | Favorite color | Favorite food | Pinneapple on pizza? |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 09/07 | Male | Blue | Sushi | <ul><li>[ ] Yes</li><li>[x] No</li></ul>
+| 29/05/71 | Male | Indian Summer | Asian | <ul><li>[ ] Yes</li><li>[x] No</li></ul>
 
 ## Hobbies
 * Music
